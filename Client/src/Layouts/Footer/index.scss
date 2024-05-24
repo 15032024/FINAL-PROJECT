@@ -1,0 +1,49 @@
+footer {
+
+background-color: #222222;
+padding: 50px 0;
+    .footer-nav {
+        // display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+.nav-1{
+    h3{
+        color: white;
+    }
+    p{
+        margin: 10px 0;
+        color: white;
+    }
+}
+        .nav-2 {
+            h3{
+                color: white;
+            }
+            ul {
+                li {
+                    margin: 10px 0;
+                    a{
+                        color: white;
+                    }
+                }
+            }
+        }
+        .nav-3 {
+            h3{
+                color: white;
+            }
+            ul {
+                li {
+                    margin: 10px 0;
+                    a{
+                        color: white;
+                    }
+                }
+            }
+        }
+        
+    }
+
+
+}
